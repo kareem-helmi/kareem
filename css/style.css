@@ -1,0 +1,12 @@
+.img-edit{
+    height: 500px;
+}
+.carousel-indicators li{
+    width:15px ;
+    height: 15px;
+    border-radius: 50%;
+}
+.carousel-caption h5 {
+    bottom: 60px;
+    font-size: 30px;
+}
